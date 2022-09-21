@@ -1,0 +1,42 @@
+Programação é ensinar o computador e isso involve 3 coisas importantes:
+1-Algoritmo(passos ou conjuto de regras)
+2-Lógica de Programação(maneira de pensar)
+3-Sintaxe(maneira correta de escrever)
+ 
+ Fundamentos Web
+
+Front-end
+Back-end
+
+-tag contem atributos
+
+Há tag q n tem fechamento,pois n tem conteudo.
+
+Css
+cascata(button)
+especifidade(#btn)
+
+por exemplo 
+#btn
+{
+
+    color:red
+
+}
+
+e button{
+    color:"blue"
+}
+
+
+a color vai pegar red, pois especifidade tem mais peso
+
+
+identaçao é colocar um tracinho
+
+55MIN
+
+toda funcao que encontra return para imediatamente
+
+'defer' coloca-se no tag script , quer dizer ele carrega o js no fim.
+
